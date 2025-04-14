@@ -1,0 +1,2241 @@
+{
+  "BTC/USDT": {
+    "binance": 0.001677,
+    "okx": 0.00276022198846,
+    "bybit": 0.008128
+  },
+  "ETH/USDT": {
+    "binance": 0.002891,
+    "okx": 0.01089019639259,
+    "bybit": 0.01
+  },
+  "SOL/USDT": {
+    "binance": -0.009538,
+    "okx": -0.00196507586452,
+    "bybit": 0.001577
+  },
+  "XRP/USDT": {
+    "binance": -0.0009,
+    "okx": -0.00084632400588,
+    "bybit": 0.007556
+  },
+  "DOGE/USDT": {
+    "binance": -0.008322,
+    "okx": -0.00135146312309,
+    "bybit": -0.00445
+  },
+  "BNB/USDT": {
+    "binance": -0.010347,
+    "okx": -0.01124280255186,
+    "bybit": 0.005484
+  },
+  "SUI/USDT": {
+    "binance": -0.01029,
+    "okx": -0.00595766869158,
+    "bybit": 0.003402
+  },
+  "ADA/USDT": {
+    "binance": -0.009483,
+    "okx": 0.00132033255336,
+    "bybit": 0.0045
+  },
+  "HYPE/USDT": {
+    "okx": 0.0128091783458,
+    "bybit": 0.01
+  },
+  "LINK/USDT": {
+    "binance": -0.002072,
+    "okx": 0.01,
+    "bybit": 0.003482
+  },
+  "FARTCOIN/USDT": {
+    "binance": 0.005,
+    "okx": -0.00056555755519,
+    "bybit": 0.005
+  },
+  "LTC/USDT": {
+    "binance": 0.000302,
+    "okx": 0.0007038721849,
+    "bybit": 0.003592
+  },
+  "AVAX/USDT": {
+    "binance": -0.01347,
+    "okx": -0.01024563479429,
+    "bybit": 0.005652
+  },
+  "ENA/USDT": {
+    "binance": -0.002693,
+    "bybit": 0.005
+  },
+  "DOT/USDT": {
+    "binance": 0.009279,
+    "okx": 0.00868479085269,
+    "bybit": 0.009224
+  },
+  "PEPE/USDT": {
+    "okx": -0.00997415466279
+  },
+  "TRUMP/USDT": {
+    "binance": -0.028911,
+    "okx": -0.02249288177856,
+    "bybit": -0.018154
+  },
+  "TRX/USDT": {
+    "binance": -0.011266,
+    "okx": -0.0038581343172,
+    "bybit": -0.011079
+  },
+  "ONDO/USDT": {
+    "binance": -0.008657,
+    "okx": -0.00795892618813,
+    "bybit": -0.019136
+  },
+  "ALCH/USDT": {
+    "binance": 0.030263,
+    "okx": 0.068107300539,
+    "bybit": 0.005
+  },
+  "BCH/USDT": {
+    "binance": -0.029256,
+    "okx": -0.01343968275823,
+    "bybit": -0.000724
+  },
+  "1000PEPE/USDT": {
+    "binance": -0.017624,
+    "bybit": 0.004392
+  },
+  "AAVE/USDT": {
+    "binance": -1.5e-05,
+    "okx": 0.00284051578789,
+    "bybit": 0.003303
+  },
+  "ZKJ/USDT": {
+    "okx": 0.04060313050289,
+    "bybit": 0.108989
+  },
+  "WIF/USDT": {
+    "binance": 0.005,
+    "okx": 0.00439058839926,
+    "bybit": 0.005
+  },
+  "UNI/USDT": {
+    "binance": -0.004224,
+    "okx": -0.00231907986304,
+    "bybit": 0.001355
+  },
+  "APT/USDT": {
+    "binance": -0.00085,
+    "okx": -0.01016291180367,
+    "bybit": 0.007863
+  },
+  "TON/USDT": {
+    "binance": -0.00291,
+    "okx": -0.00522094007254,
+    "bybit": -0.005189
+  },
+  "HBAR/USDT": {
+    "binance": -0.023388,
+    "okx": -0.01356924168706,
+    "bybit": -0.025201
+  },
+  "CRV/USDT": {
+    "binance": 0.01,
+    "okx": 0.00129869005791,
+    "bybit": 0.01
+  },
+  "FIL/USDT": {
+    "binance": 0.001713,
+    "okx": 0.00397557494926,
+    "bybit": 0.01
+  },
+  "NEAR/USDT": {
+    "binance": 0.004414,
+    "okx": 0.00340303188131,
+    "bybit": 0.01
+  },
+  "WLD/USDT": {
+    "binance": 0.01,
+    "okx": -0.00182976442883,
+    "bybit": 0.01
+  },
+  "1000BONK/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "TAO/USDT": {
+    "binance": 0.000591,
+    "okx": 0.01100209752805,
+    "bybit": 0.005
+  },
+  "EOS/USDT": {
+    "binance": 0.002262,
+    "okx": -0.00627644305251,
+    "bybit": -0.02041
+  },
+  "OM/USDT": {
+    "binance": -0.413135,
+    "okx": -0.31907458907361,
+    "bybit": -0.310514
+  },
+  "POPCAT/USDT": {
+    "binance": 0.005,
+    "okx": -0.00401648955387,
+    "bybit": 0.005
+  },
+  "SHIB/USDT": {
+    "okx": 0.01
+  },
+  "LAYER/USDT": {
+    "binance": -0.006273,
+    "okx": 0.00539997882812
+  },
+  "XLM/USDT": {
+    "binance": -0.00914,
+    "okx": -0.0032692449401,
+    "bybit": -0.000967
+  },
+  "GPS/USDT": {
+    "binance": -0.007849,
+    "okx": -0.0446171621597,
+    "bybit": -0.026065
+  },
+  "ETC/USDT": {
+    "binance": 0.002988,
+    "okx": 0.01413858777037,
+    "bybit": 0.007564
+  },
+  "TIA/USDT": {
+    "binance": 0.005,
+    "okx": 0.00838720606478,
+    "bybit": 0.005
+  },
+  "SEI/USDT": {
+    "binance": -0.021666,
+    "bybit": -0.009752
+  },
+  "ATOM/USDT": {
+    "binance": -0.032199,
+    "okx": -0.01171911485954,
+    "bybit": -0.030786
+  },
+  "ARB/USDT": {
+    "binance": 0.006532,
+    "okx": -0.00051457285418,
+    "bybit": 0.01
+  },
+  "KAS/USDT": {
+    "binance": -0.002443,
+    "bybit": 0.005
+  },
+  "LDO/USDT": {
+    "binance": -0.011305,
+    "okx": 0.00469049104495,
+    "bybit": -0.002071
+  },
+  "RENDER/USDT": {
+    "binance": 0.005,
+    "okx": -0.00062195333069,
+    "bybit": 0.005
+  },
+  "MKR/USDT": {
+    "binance": 0.003275,
+    "okx": -0.0033443511939,
+    "bybit": 0.001613
+  },
+  "MOVE/USDT": {
+    "binance": -0.442745,
+    "okx": -0.38812830215778,
+    "bybit": -0.30471
+  },
+  "IP/USDT": {
+    "binance": -0.824188,
+    "okx": -0.73533831937165,
+    "bybit": -0.606914
+  },
+  "OP/USDT": {
+    "binance": -0.00147,
+    "okx": 0.00788870831626,
+    "bybit": 0.01
+  },
+  "BERA/USDT": {
+    "binance": -0.020206,
+    "okx": -0.01220335055017,
+    "bybit": 0.0025
+  },
+  "INJ/USDT": {
+    "binance": 0.001331,
+    "okx": -0.00980177169062,
+    "bybit": -0.003977
+  },
+  "GRASS/USDT": {
+    "binance": 0.005,
+    "okx": -0.0020168902711,
+    "bybit": 0.005
+  },
+  "AERGO/USDT": {
+    "bybit": -0.005063
+  },
+  "ACT/USDT": {
+    "binance": 0.005,
+    "okx": 0.00625641819692,
+    "bybit": 0.005
+  },
+  "ORDI/USDT": {
+    "binance": 0.005,
+    "okx": 0.00231362970411,
+    "bybit": 0.005
+  },
+  "KAVA/USDT": {
+    "binance": 0.01,
+    "bybit": 0.005756
+  },
+  "PNUT/USDT": {
+    "binance": -0.004414,
+    "okx": -0.01756571164497,
+    "bybit": 0.002983
+  },
+  "JUP/USDT": {
+    "binance": 0.001276,
+    "okx": 0.00107197768079,
+    "bybit": 0.005
+  },
+  "BABY/USDT": {
+    "binance": 0.005,
+    "okx": -0.01344783667943,
+    "bybit": 0.0025
+  },
+  "FET/USDT": {
+    "binance": -0.039747
+  },
+  "S/USDT": {
+    "binance": 0.005,
+    "okx": 0.00083159593806,
+    "bybit": 0.005
+  },
+  "ALGO/USDT": {
+    "binance": -0.008488,
+    "okx": -0.00412649502715,
+    "bybit": 0.00988
+  },
+  "GALA/USDT": {
+    "binance": 0.00129,
+    "okx": 0.01210044350725,
+    "bybit": 0.01
+  },
+  "ORCA/USDT": {
+    "binance": -0.085029,
+    "bybit": -0.003682
+  },
+  "VET/USDT": {
+    "binance": -0.025806,
+    "bybit": -0.015354
+  },
+  "POL/USDT": {
+    "binance": 0.005,
+    "okx": 0.00949779922617,
+    "bybit": 0.005
+  },
+  "1000CHEEMS/USDT": {
+    "binance": 0.005
+  },
+  "PENDLE/USDT": {
+    "binance": 0.008094,
+    "bybit": 0.01
+  },
+  "AI16Z/USDT": {
+    "binance": 0.005,
+    "okx": 0.01045851343723,
+    "bybit": 0.0
+  },
+  "PROMPT/USDT": {
+    "binance": 0.005,
+    "okx": 0.01760893904047,
+    "bybit": 0.005
+  },
+  "PAXG/USDT": {
+    "binance": 0.001836,
+    "bybit": 0.005
+  },
+  "ZRO/USDT": {
+    "binance": -0.003871,
+    "okx": 0.00221559437191,
+    "bybit": 0.00298
+  },
+  "VIRTUAL/USDT": {
+    "binance": -0.003988,
+    "okx": 0.00339880376647,
+    "bybit": -0.006425
+  },
+  "SAND/USDT": {
+    "binance": 0.008416,
+    "okx": 0.00023266795762,
+    "bybit": 0.000989
+  },
+  "HMSTR/USDT": {
+    "binance": 0.005,
+    "okx": -0.00433404599639,
+    "bybit": 0.005
+  },
+  "USUAL/USDT": {
+    "binance": -0.0309,
+    "bybit": -0.022019
+  },
+  "TST/USDT": {
+    "binance": 0.005
+  },
+  "TSTBSC/USDT": {
+    "bybit": 0.005
+  },
+  "AUCTION/USDT": {
+    "binance": -0.006537,
+    "okx": -0.01081856282502,
+    "bybit": -0.009178
+  },
+  "FORM/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ICP/USDT": {
+    "binance": 0.003622,
+    "okx": -0.00412530551044,
+    "bybit": 0.001457
+  },
+  "DYDX/USDT": {
+    "binance": 0.009594,
+    "okx": 0.01353368518945,
+    "bybit": 0.01
+  },
+  "ENS/USDT": {
+    "binance": -0.014772,
+    "okx": -0.00904427720752,
+    "bybit": 0.001352
+  },
+  "MANA/USDT": {
+    "binance": -0.018179,
+    "okx": -0.00472113496876,
+    "bybit": 0.01
+  },
+  "JASMY/USDT": {
+    "binance": -0.023391,
+    "bybit": -0.01562
+  },
+  "NEO/USDT": {
+    "binance": -0.009539,
+    "okx": -0.00835109538727,
+    "bybit": 0.01
+  },
+  "UXLINK/USDT": {
+    "binance": -0.078778,
+    "okx": -0.1008647522547,
+    "bybit": -0.064242
+  },
+  "APE/USDT": {
+    "binance": 0.009419,
+    "okx": -0.01166183874382,
+    "bybit": 0.01
+  },
+  "USDC/USDT": {
+    "binance": 0.009427,
+    "okx": 0.01008290212604,
+    "bybit": 0.0
+  },
+  "BROCCOLIF3B/USDT": {
+    "binance": 0.010548
+  },
+  "BIGTIME/USDT": {
+    "binance": 0.005,
+    "okx": -0.00427519860758,
+    "bybit": 0.005
+  },
+  "STRK/USDT": {
+    "binance": -0.006087,
+    "okx": -0.02007565984512,
+    "bybit": -0.017493
+  },
+  "NOT/USDT": {
+    "binance": -0.002605,
+    "okx": -0.00091795896531,
+    "bybit": 0.005
+  },
+  "RUNE/USDT": {
+    "binance": 0.003669,
+    "bybit": 0.01
+  },
+  "KAITO/USDT": {
+    "binance": -0.008983,
+    "okx": 0.00033021042985,
+    "bybit": -0.00128
+  },
+  "NIL/USDT": {
+    "binance": 0.003865,
+    "bybit": 0.005
+  },
+  "EIGEN/USDT": {
+    "binance": 0.005,
+    "okx": -0.00638291237786,
+    "bybit": 0.005
+  },
+  "CAKE/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "LUCE/USDT": {
+    "bybit": 0.01
+  },
+  "1000SHIB/USDT": {
+    "binance": 0.007244
+  },
+  "GOAT/USDT": {
+    "binance": 0.005,
+    "okx": 0.00899424089651,
+    "bybit": 0.005
+  },
+  "MASK/USDT": {
+    "binance": 0.005763,
+    "okx": -0.01075239645294,
+    "bybit": 0.01
+  },
+  "BRETT/USDT": {
+    "binance": 0.005,
+    "okx": 0.00736870040129,
+    "bybit": 0.005
+  },
+  "GAS/USDT": {
+    "binance": -0.006546,
+    "okx": -0.03475783312455,
+    "bybit": -0.021249
+  },
+  "SOLAYER/USDT": {
+    "bybit": 0.0025
+  },
+  "STX/USDT": {
+    "binance": 0.007083,
+    "okx": 0.00189021518303,
+    "bybit": 0.01
+  },
+  "TRB/USDT": {
+    "binance": 0.005,
+    "okx": 0.00451521438473,
+    "bybit": 0.005
+  },
+  "AR/USDT": {
+    "binance": 0.000687,
+    "okx": 0.0009166038288,
+    "bybit": 0.01
+  },
+  "VANA/USDT": {
+    "binance": 0.005,
+    "okx": -0.00221130368911,
+    "bybit": 0.0025
+  },
+  "PENGU/USDT": {
+    "binance": 0.002212,
+    "okx": 0.00723381276606,
+    "bybit": 0.005
+  },
+  "MELANIA/USDT": {
+    "binance": -0.193582,
+    "bybit": -0.25637
+  },
+  "AXS/USDT": {
+    "binance": -0.034417,
+    "okx": -0.08865848792888,
+    "bybit": -0.004684
+  },
+  "CRO/USDT": {
+    "okx": -0.02799827146319,
+    "bybit": 0.000487
+  },
+  "PYTH/USDT": {
+    "binance": -0.002306,
+    "okx": -0.01270728888379,
+    "bybit": 0.005
+  },
+  "ETHFI/USDT": {
+    "binance": 0.005,
+    "okx": -0.00710890261654,
+    "bybit": 0.004373
+  },
+  "API3/USDT": {
+    "binance": -0.120272,
+    "okx": -0.10125780739159,
+    "bybit": -0.159466
+  },
+  "W/USDT": {
+    "binance": 0.005,
+    "okx": -0.00995259792753,
+    "bybit": 0.005
+  },
+  "METIS/USDT": {
+    "binance": 0.005,
+    "okx": -0.02828833405961,
+    "bybit": 0.005
+  },
+  "XTZ/USDT": {
+    "binance": -0.214253,
+    "okx": -0.18919557166103,
+    "bybit": -0.242909
+  },
+  "VINE/USDT": {
+    "binance": -0.004293,
+    "okx": -0.01090210228483,
+    "bybit": -0.002284
+  },
+  "MUBARAK/USDT": {
+    "binance": 0.005,
+    "bybit": -0.005449
+  },
+  "IMX/USDT": {
+    "binance": -0.010729,
+    "okx": -0.01252718745561,
+    "bybit": -0.006744
+  },
+  "VTHO/USDT": {
+    "binance": -0.689582,
+    "bybit": -0.573738
+  },
+  "MEW/USDT": {
+    "binance": 0.005,
+    "okx": 0.00403115343452,
+    "bybit": 0.005
+  },
+  "JTO/USDT": {
+    "binance": 0.005,
+    "okx": 0.00362020802259,
+    "bybit": 0.000707
+  },
+  "SPX/USDT": {
+    "binance": -0.018729,
+    "bybit": 0.005
+  },
+  "KERNEL/USDT": {
+    "binance": -0.218111,
+    "bybit": -0.10033
+  },
+  "GUN/USDT": {
+    "binance": 0.005,
+    "okx": 0.02351123753403,
+    "bybit": 0.005
+  },
+  "TUT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.004128
+  },
+  "PARTI/USDT": {
+    "binance": 0.005,
+    "okx": 0.00804322200804,
+    "bybit": 0.005
+  },
+  "NEIROETH/USDT": {
+    "binance": 0.005,
+    "okx": 0.02587743088802,
+    "bybit": 0.005
+  },
+  "PEOPLE/USDT": {
+    "binance": -0.009831,
+    "okx": -0.00749946838332,
+    "bybit": 0.004446
+  },
+  "FUN/USDT": {
+    "binance": -0.132406
+  },
+  "COMP/USDT": {
+    "binance": -0.000325,
+    "okx": -0.01511046634903,
+    "bybit": 0.001794
+  },
+  "ZK/USDT": {
+    "binance": 0.005,
+    "okx": -0.0090507730588,
+    "bybit": 0.00438
+  },
+  "ANIME/USDT": {
+    "binance": -0.197753,
+    "okx": -0.3060316669875,
+    "bybit": -0.268676
+  },
+  "ARKM/USDT": {
+    "binance": 0.01,
+    "okx": 0.00554940711283,
+    "bybit": 0.01
+  },
+  "GMT/USDT": {
+    "binance": 0.01,
+    "okx": -0.02042376545077,
+    "bybit": -0.015679
+  },
+  "CFX/USDT": {
+    "binance": 0.003355,
+    "okx": -0.00049575451877,
+    "bybit": 0.01
+  },
+  "CHZ/USDT": {
+    "binance": 0.01,
+    "okx": -0.00463813955388,
+    "bybit": 0.009816
+  },
+  "RARE/USDT": {
+    "binance": -0.098471,
+    "bybit": -0.079451
+  },
+  "GRT/USDT": {
+    "binance": -0.00977,
+    "okx": -0.02471906658066,
+    "bybit": 0.01
+  },
+  "RSR/USDT": {
+    "binance": 0.004174,
+    "okx": 0.00406949182965,
+    "bybit": 0.005674
+  },
+  "LPT/USDT": {
+    "binance": -0.046172,
+    "okx": -0.10388823331239,
+    "bybit": -0.048319
+  },
+  "AIXBT/USDT": {
+    "binance": -0.008781,
+    "okx": 0.00614265774103,
+    "bybit": -0.007698
+  },
+  "BOME/USDT": {
+    "binance": 0.000852,
+    "okx": 0.00993419937242,
+    "bybit": 0.005
+  },
+  "ARK/USDT": {
+    "binance": -0.012599,
+    "bybit": 0.002563
+  },
+  "DEXE/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "1000SATS/USDT": {
+    "binance": 0.005
+  },
+  "COW/USDT": {
+    "binance": -0.022229,
+    "bybit": -0.00556
+  },
+  "THETA/USDT": {
+    "binance": 0.01,
+    "okx": -0.00355917894816,
+    "bybit": 0.01
+  },
+  "REZ/USDT": {
+    "binance": -0.044703,
+    "bybit": -0.033327
+  },
+  "WAL/USDT": {
+    "binance": -0.056247,
+    "bybit": -0.027234
+  },
+  "HIPPO/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ATH/USDT": {
+    "binance": 0.005,
+    "okx": -0.00692129421702,
+    "bybit": 0.005
+  },
+  "ARC/USDT": {
+    "binance": 0.005,
+    "okx": 0.01618282970164,
+    "bybit": 0.005
+  },
+  "SUSHI/USDT": {
+    "binance": 0.001194,
+    "okx": -0.00294726280338,
+    "bybit": 0.01
+  },
+  "BTCDOM/USDT": {
+    "binance": 0.07231
+  },
+  "ZETA/USDT": {
+    "binance": 0.005,
+    "okx": 0.00682828356719,
+    "bybit": 0.0025
+  },
+  "EGLD/USDT": {
+    "binance": 0.01,
+    "okx": -0.00555260978081,
+    "bybit": 0.01
+  },
+  "NEIRO/USDT": {
+    "binance": 0.005,
+    "okx": 0.02787412868356
+  },
+  "XMR/USDT": {
+    "binance": -0.169517,
+    "bybit": -0.173563
+  },
+  "XCN/USDT": {
+    "binance": -0.036819,
+    "bybit": -0.007575
+  },
+  "VVV/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "FLOKI/USDT": {
+    "okx": -0.01199705663857
+  },
+  "1000RATS/USDT": {
+    "binance": 0.007948,
+    "bybit": 0.005
+  },
+  "PLUME/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ZEREBRO/USDT": {
+    "binance": 0.005,
+    "okx": 0.0035930230301,
+    "bybit": 0.005
+  },
+  "IOTA/USDT": {
+    "binance": 0.01,
+    "okx": -0.00288255296926,
+    "bybit": 0.01
+  },
+  "JELLYJELLY/USDT": {
+    "binance": 0.005,
+    "okx": 0.0192673712347,
+    "bybit": 0.03896
+  },
+  "IO/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ME/USDT": {
+    "binance": -0.004719,
+    "okx": -0.01496470787195,
+    "bybit": 0.005
+  },
+  "SWARMS/USDT": {
+    "binance": 0.005,
+    "okx": 0.01404040577761,
+    "bybit": 0.005
+  },
+  "AERO/USDT": {
+    "binance": -0.143178,
+    "bybit": -0.111139
+  },
+  "IOTX/USDT": {
+    "binance": 0.01,
+    "bybit": -0.012508
+  },
+  "BANANAS31/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ZEC/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "MOODENG/USDT": {
+    "binance": 0.005,
+    "okx": 0.0077011901601,
+    "bybit": 0.005
+  },
+  "BLUR/USDT": {
+    "binance": -0.001565,
+    "okx": 0.00988373819942,
+    "bybit": 0.01
+  },
+  "SNX/USDT": {
+    "binance": 0.006231,
+    "okx": -0.0073902936549,
+    "bybit": 0.01
+  },
+  "MNT/USDT": {
+    "bybit": 0.01
+  },
+  "ACH/USDT": {
+    "binance": -0.156688,
+    "okx": -0.12179047686905,
+    "bybit": -0.138261
+  },
+  "EPIC/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "SONIC/USDT": {
+    "binance": -0.001589,
+    "okx": -0.0004815843731,
+    "bybit": 0.0025
+  },
+  "SHIB1000/USDT": {
+    "bybit": 0.01
+  },
+  "1000FLOKI/USDT": {
+    "binance": -0.036021,
+    "bybit": -0.013463
+  },
+  "HEI/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "DOGS/USDT": {
+    "binance": 0.005,
+    "okx": -0.00575205625842,
+    "bybit": 0.005
+  },
+  "GMX/USDT": {
+    "binance": -0.046545,
+    "okx": -0.06771788310381,
+    "bybit": -0.051293
+  },
+  "DF/USDT": {
+    "binance": 0.005
+  },
+  "TURBO/USDT": {
+    "binance": 0.003578,
+    "okx": -0.01158621239787
+  },
+  "CATI/USDT": {
+    "binance": 0.005,
+    "okx": 0.02045481548984,
+    "bybit": 0.005
+  },
+  "GLM/USDT": {
+    "binance": -0.067065,
+    "okx": -0.10610315032967,
+    "bybit": -0.065796
+  },
+  "CORE/USDT": {
+    "okx": -0.01586822353936,
+    "bybit": -0.012729
+  },
+  "GRIFFAIN/USDT": {
+    "binance": 0.005,
+    "okx": 0.00552832731388,
+    "bybit": 0.005
+  },
+  "DOG/USDT": {
+    "okx": 0.01600254939343,
+    "bybit": 0.01
+  },
+  "LISTA/USDT": {
+    "binance": -0.089355,
+    "bybit": -0.05904
+  },
+  "CKB/USDT": {
+    "binance": -0.037263,
+    "bybit": 0.008182
+  },
+  "QUICK/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "STO/USDT": {
+    "binance": 0.005767
+  },
+  "BSV/USDT": {
+    "binance": 0.003782,
+    "okx": -0.00991715169598,
+    "bybit": -0.002069
+  },
+  "DRIFT/USDT": {
+    "binance": 0.005,
+    "bybit": -0.000308
+  },
+  "ZEN/USDT": {
+    "binance": 0.006348,
+    "bybit": 0.01
+  },
+  "RAY/USDT": {
+    "okx": -0.01693435761256
+  },
+  "SAGA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "XAUT/USDT": {
+    "okx": 0.04292765385651,
+    "bybit": 0.005
+  },
+  "SOLV/USDT": {
+    "binance": 0.005,
+    "okx": 0.01999197471862,
+    "bybit": 0.005
+  },
+  "SHELL/USDT": {
+    "binance": 0.005,
+    "okx": 0.03034297139571,
+    "bybit": 0.005
+  },
+  "BANANA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "LUNC/USDT": {
+    "okx": 0.01
+  },
+  "AVAAI/USDT": {
+    "binance": 0.008956,
+    "okx": 0.05968749279845,
+    "bybit": 0.005
+  },
+  "FLOW/USDT": {
+    "binance": -0.003212,
+    "okx": -0.001492373021,
+    "bybit": -0.010889
+  },
+  "SUPER/USDT": {
+    "binance": -0.019331,
+    "bybit": -0.009124
+  },
+  "DYM/USDT": {
+    "binance": -0.075417,
+    "bybit": -0.073334
+  },
+  "RED/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "BONK/USDT": {
+    "okx": -0.00425707331308
+  },
+  "STORJ/USDT": {
+    "binance": 0.01,
+    "okx": -0.0055995181943,
+    "bybit": 0.01
+  },
+  "MEME/USDT": {
+    "binance": 0.005,
+    "okx": -0.00964362571334,
+    "bybit": 0.005
+  },
+  "1INCH/USDT": {
+    "binance": -0.011209,
+    "okx": -0.00501458194243,
+    "bybit": -0.003824
+  },
+  "CHILLGUY/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "YFI/USDT": {
+    "binance": 0.005728,
+    "okx": 0.01700651244686,
+    "bybit": -0.003499
+  },
+  "COTI/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "AEVO/USDT": {
+    "binance": 0.005,
+    "okx": -0.02525142906945,
+    "bybit": 0.005
+  },
+  "QTUM/USDT": {
+    "binance": 0.01,
+    "okx": 0.01115520766279,
+    "bybit": 0.01
+  },
+  "MINA/USDT": {
+    "binance": 0.01,
+    "okx": -0.00354427969462,
+    "bybit": 0.003581
+  },
+  "KSM/USDT": {
+    "binance": 0.01,
+    "okx": 0.01126192219194,
+    "bybit": 0.01
+  },
+  "MORPHO/USDT": {
+    "binance": 0.005,
+    "okx": 0.01124663599336,
+    "bybit": 0.005
+  },
+  "SXP/USDT": {
+    "binance": -0.050737,
+    "bybit": 0.003833
+  },
+  "BIO/USDT": {
+    "binance": -0.008804,
+    "okx": -0.0806489503695,
+    "bybit": 0.005
+  },
+  "SCR/USDT": {
+    "binance": 0.005,
+    "okx": -0.00099066385074,
+    "bybit": 0.005
+  },
+  "AGLD/USDT": {
+    "binance": 0.004722,
+    "okx": -0.02509307360475,
+    "bybit": -0.006918
+  },
+  "ZRX/USDT": {
+    "binance": 0.01,
+    "okx": -0.001481401958,
+    "bybit": -0.006289
+  },
+  "SAFE/USDT": {
+    "binance": 0.005,
+    "bybit": 0.004545
+  },
+  "STEEM/USDT": {
+    "binance": -0.014549,
+    "bybit": -0.063746
+  },
+  "ROSE/USDT": {
+    "binance": -0.004396,
+    "bybit": 0.01
+  },
+  "GODS/USDT": {
+    "okx": -1.34588770049466,
+    "bybit": -1.285054
+  },
+  "ZIL/USDT": {
+    "binance": 0.003423,
+    "okx": -0.02852741068157,
+    "bybit": -0.01962
+  },
+  "MOCA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "BMT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "SATS/USDT": {
+    "okx": 0.00764437674367
+  },
+  "QNT/USDT": {
+    "binance": -0.003003,
+    "bybit": -0.005045
+  },
+  "AXL/USDT": {
+    "binance": 0.005,
+    "bybit": -0.040767
+  },
+  "DEGO/USDT": {
+    "binance": 0.005
+  },
+  "AKT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "YGG/USDT": {
+    "binance": 0.005,
+    "okx": 0.00087097929854,
+    "bybit": 0.005
+  },
+  "DEEP/USDT": {
+    "bybit": -0.196196
+  },
+  "BR/USDT": {
+    "binance": 0.005,
+    "okx": 2.882693535e-05,
+    "bybit": 0.005
+  },
+  "MANTA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ANKR/USDT": {
+    "binance": 0.008566,
+    "bybit": 0.01
+  },
+  "KOMA/USDT": {
+    "binance": 0.03664,
+    "bybit": 0.005
+  },
+  "BROCCOLI/USDT": {
+    "bybit": 0.005
+  },
+  "FORTH/USDT": {
+    "binance": 0.005,
+    "bybit": -0.042795
+  },
+  "ONE/USDT": {
+    "binance": 0.01,
+    "okx": 0.00192060691537,
+    "bybit": -0.033471
+  },
+  "SSV/USDT": {
+    "binance": 0.01,
+    "okx": 0.00238617285068,
+    "bybit": 0.007475
+  },
+  "BEAM/USDT": {
+    "bybit": -0.002346
+  },
+  "HIVE/USDT": {
+    "binance": -0.00567,
+    "bybit": -0.002241
+  },
+  "CELO/USDT": {
+    "binance": 0.01,
+    "okx": 0.00996128334053,
+    "bybit": 0.01
+  },
+  "TWT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "CETUS/USDT": {
+    "binance": -0.002378,
+    "okx": -0.01227560128291,
+    "bybit": 0.005
+  },
+  "SUNDOG/USDT": {
+    "okx": 0.05749783411398,
+    "bybit": 0.01
+  },
+  "ASTR/USDT": {
+    "binance": 0.00032,
+    "bybit": 0.01
+  },
+  "MANEKI/USDT": {
+    "bybit": 0.053907
+  },
+  "BLAST/USDT": {
+    "bybit": -0.014681
+  },
+  "ENJ/USDT": {
+    "binance": 0.01,
+    "okx": -0.01825109428825,
+    "bybit": 0.01
+  },
+  "ID/USDT": {
+    "binance": 0.01,
+    "okx": -0.03583054189609,
+    "bybit": -0.00571
+  },
+  "WOO/USDT": {
+    "binance": 0.01,
+    "okx": -0.01788501929402,
+    "bybit": -0.004985
+  },
+  "COOKIE/USDT": {
+    "binance": 0.005,
+    "okx": 0.0257122066431,
+    "bybit": 0.005
+  },
+  "RVN/USDT": {
+    "binance": 0.01,
+    "okx": 0.01403149646772,
+    "bybit": 0.01
+  },
+  "1000000MOG/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "UMA/USDT": {
+    "binance": 0.005,
+    "okx": -0.00384624339742,
+    "bybit": 0.005
+  },
+  "BB/USDT": {
+    "binance": 0.004219,
+    "bybit": 0.005
+  },
+  "SPELL/USDT": {
+    "binance": -0.025316,
+    "bybit": -0.026302
+  },
+  "BAKE/USDT": {
+    "binance": 0.00372,
+    "bybit": 0.01
+  },
+  "BAN/USDT": {
+    "binance": -0.001622,
+    "bybit": -0.001311
+  },
+  "SFP/USDT": {
+    "binance": 0.009158,
+    "bybit": 0.01
+  },
+  "SIREN/USDT": {
+    "binance": 0.052649,
+    "bybit": 0.005
+  },
+  "BEL/USDT": {
+    "binance": 0.01,
+    "bybit": -0.018956
+  },
+  "PUMP/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "RFC/USDT": {
+    "bybit": -0.048376
+  },
+  "FHE/USDT": {
+    "binance": -0.132587
+  },
+  "1MBABYDOGE/USDT": {
+    "binance": 0.005
+  },
+  "KDA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "MAVIA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "FXS/USDT": {
+    "binance": 0.01,
+    "okx": 0.00901880374355,
+    "bybit": 0.01
+  },
+  "MYRO/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ALICE/USDT": {
+    "binance": -0.2249,
+    "bybit": -0.116615
+  },
+  "XAI/USDT": {
+    "binance": -0.007371,
+    "bybit": 0.005
+  },
+  "CYBER/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "POLYX/USDT": {
+    "binance": -0.012352,
+    "bybit": -0.001126
+  },
+  "HIFI/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "DASH/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "X/USDT": {
+    "okx": -0.01202220565885
+  },
+  "KAIA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "USTC/USDT": {
+    "binance": 0.005,
+    "okx": 0.00764838037352,
+    "bybit": 0.003693
+  },
+  "THE/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "TNSR/USDT": {
+    "binance": 0.005,
+    "okx": -0.00605177494265,
+    "bybit": 0.005
+  },
+  "1000CAT/USDT": {
+    "binance": -0.001704,
+    "bybit": -0.008374
+  },
+  "AVA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "1000LUNC/USDT": {
+    "binance": 0.01,
+    "bybit": 0.007266
+  },
+  "CVC/USDT": {
+    "okx": -0.01115678453697,
+    "bybit": 0.004097
+  },
+  "LRC/USDT": {
+    "binance": -0.055007,
+    "okx": -0.0031909810494,
+    "bybit": 0.001155
+  },
+  "HOT/USDT": {
+    "binance": 0.01,
+    "bybit": -0.013575
+  },
+  "CVX/USDT": {
+    "okx": -0.01711705127124,
+    "bybit": 0.005
+  },
+  "RLC/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "PIPPIN/USDT": {
+    "binance": 0.005,
+    "okx": -0.00220652284247,
+    "bybit": 0.005
+  },
+  "PIXEL/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "PONKE/USDT": {
+    "binance": -0.002103,
+    "bybit": -0.008354
+  },
+  "HNT/USDT": {
+    "bybit": 0.01
+  },
+  "SYS/USDT": {
+    "binance": -0.035341,
+    "bybit": 0.005
+  },
+  "SUN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ALT/USDT": {
+    "binance": 0.005,
+    "bybit": -0.005154
+  },
+  "RAYSOL/USDT": {
+    "binance": 0.005
+  },
+  "BAT/USDT": {
+    "binance": -0.006219,
+    "okx": -0.03863953806441,
+    "bybit": 0.01
+  },
+  "C98/USDT": {
+    "binance": 0.01,
+    "bybit": 0.006323
+  },
+  "TRU/USDT": {
+    "binance": 0.088819,
+    "bybit": 0.01
+  },
+  "IOST/USDT": {
+    "binance": 0.01,
+    "okx": -0.00554569809925,
+    "bybit": 0.009978
+  },
+  "PROM/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "LQTY/USDT": {
+    "binance": 0.004466,
+    "okx": -0.00168751686761,
+    "bybit": 0.01
+  },
+  "LUMIA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "SERAPH/USDT": {
+    "bybit": 0.005
+  },
+  "ONT/USDT": {
+    "binance": 0.01,
+    "okx": 0.00945246523677,
+    "bybit": 0.005
+  },
+  "PORTAL/USDT": {
+    "binance": 0.005,
+    "bybit": -0.00224
+  },
+  "TOKEN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "J/USDT": {
+    "okx": 0.00604581750559,
+    "bybit": 0.005
+  },
+  "KNC/USDT": {
+    "binance": 0.01,
+    "okx": -0.01390123950513,
+    "bybit": 0.01
+  },
+  "ACX/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "PHA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ETHW/USDT": {
+    "binance": 0.005,
+    "okx": -0.00685092884064,
+    "bybit": 0.005
+  },
+  "SKL/USDT": {
+    "binance": -0.002675,
+    "bybit": 0.01
+  },
+  "BEAMX/USDT": {
+    "binance": -0.008543
+  },
+  "PEAQ/USDT": {
+    "bybit": 0.01
+  },
+  "BAND/USDT": {
+    "binance": 0.01,
+    "okx": -0.00498021142746,
+    "bybit": 0.01
+  },
+  "STG/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "XDC/USDT": {
+    "bybit": 0.005
+  },
+  "ARPA/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "CTC/USDT": {
+    "okx": -0.01710476963033,
+    "bybit": 0.005
+  },
+  "JOE/USDT": {
+    "binance": 0.003138,
+    "okx": -0.0082441940545,
+    "bybit": 0.01
+  },
+  "XVG/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "MERL/USDT": {
+    "okx": 0.01094113701477,
+    "bybit": 0.01
+  },
+  "MAGIC/USDT": {
+    "binance": 0.01,
+    "okx": -0.01871446989381,
+    "bybit": 0.01
+  },
+  "HIGH/USDT": {
+    "binance": -0.000447,
+    "bybit": 0.01
+  },
+  "EDU/USDT": {
+    "binance": 0.003673,
+    "bybit": 0.003136
+  },
+  "RDNT/USDT": {
+    "binance": 0.005878,
+    "okx": -0.01561894615164,
+    "bybit": -0.020828
+  },
+  "VELO/USDT": {
+    "okx": 0.01207916410731,
+    "bybit": 0.01
+  },
+  "FIDA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.000209
+  },
+  "MOVR/USDT": {
+    "binance": 0.005,
+    "okx": -0.01114189044694,
+    "bybit": 0.005
+  },
+  "CARV/USDT": {
+    "bybit": -0.125172
+  },
+  "ROAM/USDT": {
+    "bybit": 0.005
+  },
+  "CHR/USDT": {
+    "binance": 0.004806,
+    "bybit": 0.01
+  },
+  "ILV/USDT": {
+    "binance": -0.006408,
+    "bybit": -0.008038
+  },
+  "DEGEN/USDT": {
+    "binance": 0.005,
+    "okx": 0.00826544361409,
+    "bybit": 0.005
+  },
+  "VANRY/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "PERP/USDT": {
+    "binance": 0.005,
+    "okx": -0.01330573766448,
+    "bybit": 0.005
+  },
+  "1000X/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "CTSI/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "ACE/USDT": {
+    "binance": 0.005,
+    "okx": 0.00636187325547,
+    "bybit": 0.005
+  },
+  "KMNO/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "CELR/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "NMR/USDT": {
+    "binance": 0.005,
+    "okx": -0.01139543915571,
+    "bybit": 0.005
+  },
+  "T/USDT": {
+    "binance": 0.01,
+    "okx": -0.00634703946538,
+    "bybit": 0.01
+  },
+  "AI/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "FLM/USDT": {
+    "binance": 0.005,
+    "okx": 0.01829471857461,
+    "bybit": 0.005
+  },
+  "RONIN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ICX/USDT": {
+    "binance": 0.01,
+    "okx": 0.00884363364155,
+    "bybit": 0.01
+  },
+  "POWR/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ALPHA/USDT": {
+    "binance": 0.01,
+    "okx": 0.00488500336737,
+    "bybit": 0.005
+  },
+  "B3/USDT": {
+    "binance": -0.17724,
+    "bybit": 0.001231
+  },
+  "BUZZ/USDT": {
+    "okx": 0.09397186026489,
+    "bybit": 0.005
+  },
+  "CGPT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.0025
+  },
+  "OL/USDT": {
+    "okx": -0.01110573632312,
+    "bybit": 0.01
+  },
+  "SWELL/USDT": {
+    "binance": -0.012282,
+    "okx": -0.06378249357091,
+    "bybit": -0.004244
+  },
+  "LOOKS/USDT": {
+    "okx": -0.01960584282756,
+    "bybit": 0.01
+  },
+  "ZRC/USDT": {
+    "bybit": 0.01
+  },
+  "PUFFER/USDT": {
+    "okx": -0.13587334727932,
+    "bybit": -0.061205
+  },
+  "PHB/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "ETHBTC/USDT": {
+    "bybit": 0.0
+  },
+  "DENT/USDT": {
+    "binance": 0.002446,
+    "bybit": 0.01
+  },
+  "10000SATS/USDT": {
+    "bybit": 0.005
+  },
+  "MAV/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "ATA/USDT": {
+    "binance": -0.015455,
+    "bybit": 0.01
+  },
+  "ONG/USDT": {
+    "binance": 0.000402,
+    "bybit": 0.005
+  },
+  "SLERF/USDT": {
+    "binance": 0.005,
+    "okx": 0.00495216472834,
+    "bybit": 0.005
+  },
+  "OGN/USDT": {
+    "binance": 0.01,
+    "bybit": -0.004473
+  },
+  "ELX/USDT": {
+    "bybit": 0.005
+  },
+  "LEVER/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "VRA/USDT": {
+    "okx": -0.03227332304166,
+    "bybit": 0.01
+  },
+  "GTC/USDT": {
+    "binance": -0.006438,
+    "bybit": 0.01
+  },
+  "MTL/USDT": {
+    "binance": 0.01,
+    "bybit": 0.009277
+  },
+  "PRCL/USDT": {
+    "okx": -0.01896514615411,
+    "bybit": 0.01
+  },
+  "TAIKO/USDT": {
+    "bybit": 0.01
+  },
+  "MLN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "HOOK/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "SNT/USDT": {
+    "bybit": 0.01
+  },
+  "BSW/USDT": {
+    "binance": -0.008495,
+    "bybit": 0.005
+  },
+  "OXT/USDT": {
+    "binance": 0.00544,
+    "bybit": 0.01
+  },
+  "BNT/USDT": {
+    "binance": 0.00675,
+    "okx": -0.00905891483768,
+    "bybit": 0.01
+  },
+  "WAVES/USDT": {
+    "bybit": -0.084384
+  },
+  "BID/USDT": {
+    "binance": 0.005
+  },
+  "AGI/USDT": {
+    "bybit": 0.01
+  },
+  "LSK/USDT": {
+    "binance": 0.005,
+    "okx": -0.01059726301996,
+    "bybit": -0.000968
+  },
+  "OMNI/USDT": {
+    "binance": 0.001066,
+    "bybit": 0.005
+  },
+  "XCH/USDT": {
+    "okx": -0.00605870615451,
+    "bybit": 0.01
+  },
+  "XVS/USDT": {
+    "binance": -0.002129,
+    "bybit": 0.01
+  },
+  "DUCK/USDT": {
+    "okx": 0.00710064771375,
+    "bybit": 0.005
+  },
+  "BADGER/USDT": {
+    "okx": 0.13555614228819,
+    "bybit": 0.005
+  },
+  "FIO/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "BICO/USDT": {
+    "binance": 0.01,
+    "okx": -0.0151153640992,
+    "bybit": 0.01
+  },
+  "RIF/USDT": {
+    "binance": -0.089223,
+    "bybit": 0.005
+  },
+  "VOXEL/USDT": {
+    "binance": -0.007619,
+    "bybit": 0.005
+  },
+  "AIOZ/USDT": {
+    "bybit": 0.01
+  },
+  "NTRN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "TLM/USDT": {
+    "binance": -0.006572,
+    "bybit": 0.01
+  },
+  "BROCCOLI714/USDT": {
+    "binance": 0.005
+  },
+  "WAXP/USDT": {
+    "binance": 0.005,
+    "okx": -0.00731071950077,
+    "bybit": -0.003165
+  },
+  "NFP/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "LUNA2/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "SYN/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "LUNA/USDT": {
+    "okx": 0.01
+  },
+  "SLP/USDT": {
+    "okx": 0.0070859887495,
+    "bybit": 0.01
+  },
+  "GIGA/USDT": {
+    "bybit": 0.005
+  },
+  "NKN/USDT": {
+    "binance": -0.07774,
+    "bybit": -0.109057
+  },
+  "VIC/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "DUSK/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "1000000BABYDOGE/USDT": {
+    "bybit": 0.005
+  },
+  "FLUX/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "GNO/USDT": {
+    "bybit": -0.048296
+  },
+  "BAL/USDT": {
+    "okx": -0.05771436126403,
+    "bybit": 0.001904
+  },
+  "FLR/USDT": {
+    "bybit": 0.01
+  },
+  "FWOG/USDT": {
+    "bybit": 0.01
+  },
+  "MBOX/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "10000WHY/USDT": {
+    "bybit": 0.005
+  },
+  "ALPACA/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "SWEAT/USDT": {
+    "okx": 0.00245500211162,
+    "bybit": 0.005
+  },
+  "AVL/USDT": {
+    "bybit": 0.0025
+  },
+  "CHESS/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "STPT/USDT": {
+    "bybit": 0.005
+  },
+  "DGB/USDT": {
+    "okx": -0.06100341703358,
+    "bybit": 0.00657
+  },
+  "G/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ZBCN/USDT": {
+    "bybit": -0.045296
+  },
+  "XION/USDT": {
+    "bybit": 0.005
+  },
+  "RPL/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "JST/USDT": {
+    "okx": 0.00490911908825,
+    "bybit": 0.01
+  },
+  "MEMEFI/USDT": {
+    "okx": 0.04566450864505,
+    "bybit": 0.01
+  },
+  "RAYDIUM/USDT": {
+    "bybit": 0.005
+  },
+  "VIDT/USDT": {
+    "bybit": -0.105311
+  },
+  "HFT/USDT": {
+    "binance": -0.014149,
+    "bybit": 0.00781
+  },
+  "FTN/USDT": {
+    "bybit": 0.01
+  },
+  "ORDER/USDT": {
+    "bybit": 0.01
+  },
+  "1000NEIROCTO/USDT": {
+    "bybit": 0.005
+  },
+  "AVAIL/USDT": {
+    "bybit": 0.01
+  },
+  "FUEL/USDT": {
+    "bybit": 0.005
+  },
+  "GHST/USDT": {
+    "binance": 0.001341
+  },
+  "DBR/USDT": {
+    "bybit": 0.005703
+  },
+  "ALEO/USDT": {
+    "bybit": 0.01
+  },
+  "10000LADYS/USDT": {
+    "bybit": 0.01
+  },
+  "ZEUS/USDT": {
+    "bybit": 0.01
+  },
+  "CAT/USDT": {
+    "okx": -0.0409694558412
+  },
+  "VELODROME/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "RON/USDT": {
+    "okx": -0.03585608515279
+  },
+  "SCRT/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "MAJOR/USDT": {
+    "okx": -0.0381749822143,
+    "bybit": 0.01
+  },
+  "NC/USDT": {
+    "okx": -0.01479755722321,
+    "bybit": 0.005
+  },
+  "SANTOS/USDT": {
+    "binance": 0.005
+  },
+  "CLOUD/USDT": {
+    "bybit": 0.01
+  },
+  "1000XEC/USDT": {
+    "binance": 0.01,
+    "bybit": 0.01
+  },
+  "DIA/USDT": {
+    "binance": 0.005
+  },
+  "COS/USDT": {
+    "binance": 0.005,
+    "bybit": 0.005
+  },
+  "ORBS/USDT": {
+    "okx": 0.03820935950027,
+    "bybit": 0.005
+  },
+  "A8/USDT": {
+    "bybit": 0.005
+  },
+  "L3/USDT": {
+    "bybit": -0.004221
+  },
+  "XEM/USDT": {
+    "bybit": 0.01
+  },
+  "TAI/USDT": {
+    "bybit": 0.01
+  },
+  "D/USDT": {
+    "binance": 0.005
+  },
+  "SC/USDT": {
+    "bybit": 0.005
+  },
+  "1000WHY/USDT": {
+    "binance": 0.131958
+  },
+  "PYR/USDT": {
+    "bybit": 0.01
+  },
+  "1000TOSHI/USDT": {
+    "bybit": -0.01059
+  },
+  "OG/USDT": {
+    "bybit": 0.01
+  },
+  "RSS3/USDT": {
+    "bybit": 0.001636
+  },
+  "RAD/USDT": {
+    "bybit": -0.163526
+  },
+  "1000BTT/USDT": {
+    "bybit": 0.01
+  },
+  "REI/USDT": {
+    "binance": 0.005
+  },
+  "XTER/USDT": {
+    "bybit": 0.005
+  },
+  "FOXY/USDT": {
+    "okx": -0.00480751397669,
+    "bybit": 0.01
+  },
+  "USDE/USDT": {
+    "bybit": -0.000313
+  },
+  "AUDIO/USDT": {
+    "bybit": -0.03739
+  },
+  "NS/USDT": {
+    "bybit": 0.01
+  },
+  "PRIME/USDT": {
+    "bybit": 0.01
+  },
+  "LOKA/USDT": {
+    "binance": 0.005
+  },
+  "10000ELON/USDT": {
+    "bybit": 0.005
+  },
+  "XRD/USDT": {
+    "bybit": 0.106274
+  },
+  "1000000CHEEMS/USDT": {
+    "bybit": 0.005
+  },
+  "1000TURBO/USDT": {
+    "bybit": 0.005
+  },
+  "CPOOL/USDT": {
+    "bybit": 0.005
+  },
+  "ZENT/USDT": {
+    "okx": -0.16417584442389,
+    "bybit": 0.01
+  },
+  "10000WEN/USDT": {
+    "bybit": 0.01
+  },
+  "FB/USDT": {
+    "bybit": -0.056881
+  },
+  "CSPR/USDT": {
+    "okx": -0.03124124557267
+  },
+  "ULTI/USDT": {
+    "okx": -0.04232388626777
+  },
+  "SPEC/USDT": {
+    "bybit": 0.01
+  },
+  "FLOCK/USDT": {
+    "bybit": 0.005
+  },
+  "DEFI/USDT": {
+    "binance": 0.157958
+  },
+  "1000APU/USDT": {
+    "bybit": 0.01
+  },
+  "REQ/USDT": {
+    "bybit": 0.01
+  },
+  "F/USDT": {
+    "bybit": 0.01
+  },
+  "SLF/USDT": {
+    "bybit": 0.01
+  },
+  "MASA/USDT": {
+    "bybit": -0.128073
+  },
+  "MBL/USDT": {
+    "bybit": -0.08603
+  },
+  "AIDOGE/USDT": {
+    "okx": 0.0207807740368
+  },
+  "MDT/USDT": {
+    "bybit": 0.01
+  },
+  "DODO/USDT": {
+    "bybit": 0.005
+  },
+  "1000MUMU/USDT": {
+    "bybit": 0.01
+  },
+  "GLMR/USDT": {
+    "bybit": 0.01
+  },
+  "OMG/USDT": {
+    "bybit": 0.01
+  },
+  "CTK/USDT": {
+    "bybit": 0.005
+  },
+  "XNO/USDT": {
+    "bybit": -0.353517
+  },
+  "SEND/USDT": {
+    "bybit": 0.005
+  },
+  "DODOX/USDT": {
+    "binance": 0.005
+  },
+  "MICHI/USDT": {
+    "bybit": 0.005
+  },
+  "JAILSTOOL/USDT": {
+    "bybit": 0.005
+  },
+  "1000000PEIPEI/USDT": {
+    "bybit": 0.01
+  },
+  "SCA/USDT": {
+    "bybit": 0.01
+  },
+  "SOLO/USDT": {
+    "bybit": 0.01
+  },
+  "MYRIA/USDT": {
+    "bybit": 0.01
+  },
+  "10000COQ/USDT": {
+    "bybit": -0.09201
+  },
+  "VR/USDT": {
+    "bybit": 0.01
+  },
+  "BOBA/USDT": {
+    "bybit": -0.011617
+  },
+  "1000CATS/USDT": {
+    "bybit": 0.01
+  },
+  "HPOS10I/USDT": {
+    "bybit": 0.01
+  },
+  "PROS/USDT": {
+    "bybit": 0.01
+  },
+  "SD/USDT": {
+    "bybit": 0.01
+  },
+  "MVL/USDT": {
+    "bybit": 0.01
+  },
+  "COOK/USDT": {
+    "bybit": 0.01
+  },
+  "QI/USDT": {
+    "bybit": -0.005122
+  },
+  "IDEX/USDT": {
+    "bybit": 0.01
+  },
+  "MOBILE/USDT": {
+    "bybit": 0.01
+  },
+  "GOMINING/USDT": {
+    "bybit": 0.01
+  },
+  "REX/USDT": {
+    "bybit": 0.01
+  },
+  "10000000AIDOGE/USDT": {
+    "bybit": 0.01
+  },
+  "10000QUBIC/USDT": {
+    "bybit": 0.01
+  },
+  "NFT/USDT": {
+    "okx": -0.02383862556075
+  },
+  "OSMO/USDT": {
+    "bybit": -0.033312
+  },
+  "ALU/USDT": {
+    "bybit": 0.005
+  },
+  "MAX/USDT": {
+    "bybit": 0.01
+  },
+  "DATA/USDT": {
+    "bybit": 0.01
+  }
+}
